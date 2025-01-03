@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input,
+textArea {
+  border: 1px solid;
+  padding: 6px;
+}

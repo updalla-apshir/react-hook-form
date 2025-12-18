@@ -1,4 +1,4 @@
-  
+   
 React + TypeScript + React Hook-Form + Zod + vite 
 
 This project serves as a foundation for building modern, type-safe React applications with TypeScript and Zod. It integrates Vite for fast builds and development, providing tools for runtime schema validation and type inference with Zod.
